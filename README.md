@@ -6,6 +6,7 @@ cd electron-todo/client
 npm install
 ## Install dependence of elctron
 cd ../
+## install
 npm install
 ## install electron
 npm install electron --save-dev
